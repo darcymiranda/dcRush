@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheRush.WebApp", "src\TheRush.WebApp\TheRush.WebApp.csproj", "{FA0AB7ED-05B2-43F4-82F0-BCF965A033FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0AB7ED-05B2-43F4-82F0-BCF965A033FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0AB7ED-05B2-43F4-82F0-BCF965A033FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0AB7ED-05B2-43F4-82F0-BCF965A033FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0AB7ED-05B2-43F4-82F0-BCF965A033FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
