@@ -4,7 +4,7 @@ Frontend code is [here](src/TheRush.WebApp/ClientApp/src/components/PlayerRushin
 
 ### Installation and running this solution
 
-#### Wtih dotnet
+#### With dotnet
 ```
 cd ./src/TheRush.WebApp
 dotnet build
